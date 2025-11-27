@@ -57,7 +57,7 @@ const html = `
     <div class="card">
         <div class="name">Thea Frances Chavez</div>
         <div class="code">SM - 4101</div>
-        <div class="quote">“Luxury begins where functionality ends.”</div>
+        <div class="quote">"The elevator to success is out of order. You'll have to use the stairs, one step at a time" — Joe Girard.</div>
     </div>
 </body>
 </html>
